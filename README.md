@@ -9,22 +9,22 @@
 ``` bash
 # install dependencies
 yarn install
-or
+# or
 npm install
 
 # serve with hot reload at localhost:8080
 yarn dev
-or
+# or
 npm run dev
 
 # build for production with minification
 yarn build
-or
+# or
 npm run build
 
 # run all tests
 yarn test
-or
+# or
 npm run test
 ```
 
